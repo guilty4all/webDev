@@ -1,0 +1,9 @@
+{
+    "name": "webdev",
+    "version": "1.0.0",
+    "description": "Testing Web Development",
+    "author": "guilty4all",
+    "devDependencies": {
+        "gulp": "^4.0.2"
+    }
+}
